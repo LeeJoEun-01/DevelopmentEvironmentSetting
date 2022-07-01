@@ -26,7 +26,7 @@
   <!-- ServerName localhost:80 -->
   ServerName localhost:포트
   ```
-  - cmd에서 apache24\bin 폴더로 이동해서 아래 명령어로 설치를 한다.
+  - cmd에서 `apache24\bin` 폴더로 이동해서 아래 명령어로 설치를 한다.
   ```
   // 아팟치 설치
   httpd.exe -k install
@@ -43,7 +43,7 @@
     + Binaries and sources Releases에서 원하는 버전, 비트, Thread Safe 후 Zip 파일 다운로드
       - ('php7apache2_4.dll' 파일이 있어야 함으로 무조건 **Thread Safe**로 다운로드!!)
       - ### [세팅 시작]
-      1) php.ini-production 파일을 복사해서 php.ini으로 이름 변경
+      1) php.ini-production 파일을 복사해서 `php.ini`으로 이름 변경
       2) php.ini 파일을 열어서 extension_dir 찾아서 ext 풀더의 경로를 입력한다. (메모장에서 관리자 권한으로 열어서 편집)
       ```
       ; Directory in which the loadable extensions (modules) reside.
