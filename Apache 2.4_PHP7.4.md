@@ -73,3 +73,11 @@
       ```
       $ httpd -k restart
       ```
+      
+      <!-- 
+      ## 참고
+      https://hello-bryan.tistory.com/246
+      https://rootjonghyun.tistory.com/6
+      https://github.com/hasuikhs/PHP/blob/master/Apache%202.4%20%2B%20PHP%207.4.4%20%28Windows%2010%29.md
+      -->
+      
