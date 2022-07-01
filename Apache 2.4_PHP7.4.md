@@ -81,3 +81,12 @@
       https://github.com/hasuikhs/PHP/blob/master/Apache%202.4%20%2B%20PHP%207.4.4%20%28Windows%2010%29.md
       -->
       
+ ## PHP에 CSS 적용이 안된 경우
+ - `php.ini`파일을 찾는다.
+ - default_mimetype을 보면 "text/html"이라고 되어있는데 여기서 text/html을 지워준다.
+ ```
+ default_mimetype = ""
+ ```
+ 
+ ## PHP 한글 깨짐 문제 
+ 
