@@ -88,5 +88,6 @@
  default_mimetype = ""
  ```
  
- ## PHP 한글 깨짐 문제 
+ ## 유의사항 
+ 실행하려고 하는 index.php 파일이 `Apache24 > htdocs` 폴더 안에 있는지 확인하자!!!
  
