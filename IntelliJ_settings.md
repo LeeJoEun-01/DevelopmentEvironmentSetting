@@ -36,3 +36,10 @@
     + 재시작을 해도 안된다면?
     + `build`파일 삭제 후 다시 run
 <!-- 참고링크: https://beemiel.tistory.com/4 -->
+
+### 3. Spring Boot 프로젝트 생성
+- spring initializr
+![image](https://user-images.githubusercontent.com/78733700/182294531-3addbc3e-7a17-4ecb-b9fe-2c37dd50d43b.png)
+
+
+
