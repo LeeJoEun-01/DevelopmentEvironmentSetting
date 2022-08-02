@@ -1,6 +1,8 @@
 ## 목차
 [1. IntelliJ에서 java와 gradle 사용](#IntelliJ에서-java와-gradle-사용)  
-[2. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)
+[2. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)  
+[3. Spring Boot 프로젝트 생성](#Spring-Boot-프로젝트-생성)
+
 
 # IntelliJ에서 java와 gradle 사용
 (java와 gradle의 버전이 호환되어야 한다!)
@@ -37,8 +39,8 @@
     + `build`파일 삭제 후 다시 run
 <!-- 참고링크: https://beemiel.tistory.com/4 -->
 
-### 3. Spring Boot 프로젝트 생성
-- spring initializr
+# Spring Boot 프로젝트 생성
+- [spring initializr](https://start.spring.io/)
 ![image](https://user-images.githubusercontent.com/78733700/182294531-3addbc3e-7a17-4ecb-b9fe-2c37dd50d43b.png)
 
 
