@@ -52,6 +52,6 @@
 source release 11 requires target release 11
 ```
 :point_right: 1. setting > build, Execution, Deployment > gradle projects의 using을 IntelliJ로 바꿔준다.
-![image](https://user-images.githubusercontent.com/78733700/182502883-c7ad0fac-3dec-4563-bf5f-a5a1a563aec3.png)
+![image](https://user-images.githubusercontent.com/78733700/182502883-c7ad0fac-3dec-4563-bf5f-a5a1a563aec3.png)  
 :point_right: 2. Project Structure에 들어가서 `project`와 `SDKs`에서 자바 버전을 spring boot와 일치해주면 해결완료!
 <!-- 참고: https://oh-sh-2134.tistory.com/23  -->
