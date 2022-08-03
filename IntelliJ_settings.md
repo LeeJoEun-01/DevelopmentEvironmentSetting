@@ -45,9 +45,10 @@
 ![image](https://user-images.githubusercontent.com/78733700/182294531-3addbc3e-7a17-4ecb-b9fe-2c37dd50d43b.png)
 
 
-# :boom:Error:boom:
+# Error
+### :boom:버전 에러
+=> 발생이유! 외부에서 만들어온 spring boot project와 인텔리제이 자바 버전이 달라서 생기는 에러!  
 ```java
 source release 11 requires target release 11
 ```
-=> 발생이유! 외부에서 만들어온 spring boot project와 인텔리제이 자바 버전이 달라서 생기는 에러!  
 :point_right: Project Structure에 들어가서 `project`와 `SDKs`에서 자바 버전을 spring boot와 일치해주면 해결완료!
