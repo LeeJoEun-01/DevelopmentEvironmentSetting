@@ -1,9 +1,15 @@
 ## 목차
-[1. IntelliJ에서 java와 gradle 사용](#IntelliJ에서-java와-gradle-사용)  
-[2. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)  
-[3. Spring Boot 프로젝트 생성](#Spring-Boot-프로젝트-생성)  
-[4. Error](#Error)
+[1. 인텔리제이 설치](#IntelliJ-IDEA-설치)  
+[2. IntelliJ에서 java와 gradle 사용](#IntelliJ에서-java와-gradle-사용)  
+[3. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)  
+[4. Spring Boot 프로젝트 생성](#Spring-Boot-프로젝트-생성)  
+[5. Error](#Error)
 
+# IntelliJ IDEA 설치
+- 'Community' 버전 (무료 버전이지만 톰캣,ioc 등등의 기능들이 없다.....!)
+- 'Ultimate' 버전 (유료 버전이지만 학생 인증하면 무료!)
+- Window
+  - [인텔리제이 설치 시 선책 옵션](https://goddaehee.tistory.com/195)
 
 # IntelliJ에서 java와 gradle 사용
 (java와 gradle의 버전이 호환되어야 한다!)
