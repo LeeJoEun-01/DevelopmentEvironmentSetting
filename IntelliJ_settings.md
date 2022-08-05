@@ -6,10 +6,10 @@
 [5. Error](#Error)
 
 # IntelliJ IDEA 설치
-- 'Community' 버전 (무료 버전이지만 톰캣,ioc 등등의 기능들이 없다.....!)
-- 'Ultimate' 버전 (유료 버전이지만 학생 인증하면 무료!)
+- `Community` 버전 (무료 버전이지만 톰캣,ioc 등등의 기능들이 없다.....!)
+- `Ultimate` 버전 (유료 버전이지만 [학생](https://goddaehee.tistory.com/215) 인증하면 무료!)
 - Window
-  - [인텔리제이 설치 시 선책 옵션](https://goddaehee.tistory.com/195)
+  - [인텔리제이 설치 시 선택 옵션](https://goddaehee.tistory.com/195)
 
 # IntelliJ에서 java와 gradle 사용
 (java와 gradle의 버전이 호환되어야 한다!)
