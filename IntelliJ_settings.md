@@ -50,6 +50,7 @@
 - [spring initializr](https://start.spring.io/)
 ![image](https://user-images.githubusercontent.com/78733700/182294531-3addbc3e-7a17-4ecb-b9fe-2c37dd50d43b.png)
 
+# IntelliJ Configuration 설정하는 
 
 # Error
 ### :boom:버전 에러
