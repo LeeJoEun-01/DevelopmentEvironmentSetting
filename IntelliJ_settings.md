@@ -3,7 +3,9 @@
 [2. IntelliJ에서 java와 gradle 사용](#IntelliJ에서-java와-gradle-사용)  
 [3. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)  
 [4. Spring Boot 프로젝트 생성](#Spring-Boot-프로젝트-생성)  
-[5. Error](#Error)
+[5. IntelliJ Configuration 설정하는](#IntelliJ-Configuration-설정하는) 
+[6. IntelliJ에서 톰캣 서버 구동](#IntelliJ에서-톰캣-서버-구동) 
+[7. Error](#Error)
 
 # IntelliJ IDEA 설치
 - `Community` 버전 (무료 버전이지만 톰캣,ioc 등등의 기능들이 없다.....!)
@@ -51,6 +53,21 @@
 ![image](https://user-images.githubusercontent.com/78733700/182294531-3addbc3e-7a17-4ecb-b9fe-2c37dd50d43b.png)
 
 # IntelliJ Configuration 설정하는 
+1. 프로젝트 열고 오르쪽 run 버튼 옆에 클릭!
+2. Edit configurations ... 클릭! 
+3. Modify options 누르고 add vm options 클릭 + -Dspring.config.name=application.joeun 입력 (이 외에 vm options 설정)
+- 서버 재시동 안하고 새로고침만 눌러도 반영되게 하기
+   - Modify options -> On 'Update' action: Update classes and resources
+   - Modify options -> On frame deactivation: Update classes and resources
+- 오류 발생
+(FILE ->settings > Build, Execution, Deployment > Build Tools > Maven > Use plugin 체크)
+
+# IntelliJ에서 톰캣 서버 구동
+1. Edit configurations 들어가서 tomcat > local 
+2. VM options/On 'Update' action/On frame deactivation 옵션 수정 + 자바 버전 확인
+![image](https://user-images.githubusercontent.com/78733700/185547284-87057d7d-5747-4b7e-8323-c39889c877bb.png)
+3. 배포할 war 파일 선 + :heavy_check_mark: Application context를 `/`로 변경!!!!!
+![image](https://user-images.githubusercontent.com/78733700/185547233-d47e19a0-a2f8-44a7-867f-055153d22e45.png)
 
 # Error
 ### :boom:버전 에러
