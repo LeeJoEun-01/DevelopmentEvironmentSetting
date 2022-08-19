@@ -3,8 +3,8 @@
 [2. IntelliJ에서 java와 gradle 사용](#IntelliJ에서-java와-gradle-사용)  
 [3. IntelliJ에서 한글 깨질 때](#IntelliJ에서-한글-파일-깨질-때)  
 [4. Spring Boot 프로젝트 생성](#Spring-Boot-프로젝트-생성)  
-[5. IntelliJ Configuration 설정하는](#IntelliJ-Configuration-설정하는) 
-[6. IntelliJ에서 톰캣 서버 구동](#IntelliJ에서-톰캣-서버-구동) 
+[5. IntelliJ Configuration 설정하는](#IntelliJ-Configuration-설정하는)   
+[6. IntelliJ에서 톰캣 서버 구동](#IntelliJ에서-톰캣-서버-구동)   
 [7. Error](#Error)
 
 # IntelliJ IDEA 설치
