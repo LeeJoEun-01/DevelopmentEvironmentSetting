@@ -18,6 +18,8 @@
 - java version: jdk-14.0.2
 - gradle version: gradle-6.4.1-bin
 
+- 특정 maven 사용하는 경우 (maven.config)파일인 setting.xml을 다운받아 import 해줘야한다!! (maven을 사용하는 방법도 알아보자!)
+
 ## java 버전 변경하는 방법
 #### File -> Project Structure(ctrl+shift+alt+s) -> SDK 변경
 ![image](https://user-images.githubusercontent.com/78733700/175238650-41f0a983-8533-418b-88b1-a2d263f1be25.png)
