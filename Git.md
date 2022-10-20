@@ -26,3 +26,7 @@
 <!--gitignore 참고: https://coding-groot.tistory.com/59 -->
 <!-- gitignore 참고2 :https://xho95.github.io/git/github/xcode/swift/2016/07/16/Making-a-.gitignore-file.html -->
 <!--마크다운 이모지 이름: https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0  -->
+
+### gitignore 파일 생성 
+- 운영체제, 개발환경, 프로그맹 언어들을 적으면 gitignore 파일을 생성해준다.
+- https://www.toptal.com/developers/gitignore
