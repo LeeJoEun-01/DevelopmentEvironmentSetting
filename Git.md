@@ -28,5 +28,8 @@
 <!--마크다운 이모지 이름: https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-Emoji-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0  -->
 
 ### gitignore 파일 생성 
-- 운영체제, 개발환경, 프로그맹 언어들을 적으면 gitignore 파일을 생성해준다.
-- https://www.toptal.com/developers/gitignore
+- [gitignore.io](https://www.toptal.com/developers/gitignore) 사이트 접속
+- 자신이 사용하는 개발자 툴과 언어를 입력하고 생성을 누르면
+![스크린샷 2022-09-18 오후 11 00 50](https://user-images.githubusercontent.com/78733700/190910888-e60c36eb-aee8-47a0-8735-291f420405a8.png)
+- `.gitignore` 파일을 생성해준다!
+![스크린샷 2022-09-18 오후 11 01 23](https://user-images.githubusercontent.com/78733700/190910894-b737d09f-34bb-4f68-bf6b-c13bb94253b0.png)
